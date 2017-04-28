@@ -1,0 +1,327 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, Verdana, "Microsoft JhengHei", "Microsoft YaHei", sans-serif;
+  font-size: 100%
+}
+
+#allcontent{
+  position:relative;
+  width: 1360px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page1{
+  background:url(images/BG_04.jpg) no-repeat;
+  z-index:999;
+  color: #FFF;
+  margin-top: -20px;
+}
+.page2{
+  background:url(images/BG_01.png);
+}
+.page3{
+  background: url(images/BG_02.png);
+}
+.page4{
+  background: url(images/BG_01.png);
+}
+.page5{
+  background: url(images/BG_02.png);
+  margin-top: -20px;
+}
+.page6{
+  background: url(images/BG_01.png);
+}
+.page7{
+  background:url(images/BG_04.jpg) no-repeat;
+}
+.footer{
+  background:url(images/BG_03.png);
+}
+
+#headle-menu{
+  list-style-type: none;
+}
+#headle-menu li{
+  display: inline;
+  margin: 20px 20px 10px 20px;
+  padding: 20px 20px 0px 20px;
+}
+
+.headle-right{
+  width: 700px; height: 100px;
+  position: absolute;
+  top:20px;
+  left: 600px;
+}
+.hand_iPhone{
+  margin-left: 800px;
+  margin-top: 50px;
+}
+.download_button{
+  position: absolute;
+  top: 310px;
+  left: 200px;
+}
+.headle-left{
+  margin: 20px 20px 10px 20px;
+  padding: 20px 20px 0px 20px;
+}
+.headle-left-text{
+  width: 150px; height: 50px;
+  position: absolute;
+  top: 8px;
+  left: 180px;
+}
+.logo{
+  position: absolute;
+  left: 130px;
+}
+.page1-h1{
+  width:360px; height:80px;
+  position: absolute;
+  top: 150px;
+  left: 200px;
+}
+.button-text{
+  width: 150px; height: 30px;
+  position: absolute;
+  top:302px;
+  left: 315px;
+  font-size: 160%;
+}
+.share{
+  width: 100px; height: 10px;
+  position: absolute;
+  top: 450px;
+  left: 200px;
+  font-size: 80%;
+}
+.tubiao{
+  width: 200px;height: 20px;
+  position: absolute;
+  left: 270px;
+  top: 460px;
+}
+#perfect{
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#page2TextLeft{
+  color: green;
+  width:360px; height:80px;
+  position: absolute;
+  top: 700px;
+  left: 800px;
+}
+#page2TextLeftP{
+  color: grey;
+  width:360px; height:80px;
+  position: absolute;
+  top: 800px;
+  left: 800px;
+  line-height: 40px;
+}
+#page2Down{
+  position: absolute;
+  top: 970px;
+  left: 960px;
+}
+#easier{
+  margin-left: 800px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#page3TextRight{
+  color: green;
+  width:360px; height:80px;
+  position: absolute;
+  top: 1310px;
+  left: 200px;
+}
+#page3TextrightP{
+  color: grey;
+  width:360px; height:80px;
+  position: absolute;
+  top: 1380px;
+  left: 200px;
+  line-height: 40px;
+}
+#page3Down{
+  position: absolute;
+  top: 1590px;
+  left: 360px;
+}
+#remote{
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#page4TextLeft{
+  color: green;
+  width:360px; height:80px;
+  position: absolute;
+  top: 2000px;
+  left: 800px;
+}
+#page4TextLeftP{
+  color: grey;
+  width:360px; height:80px;
+  position: absolute;
+  top: 2070px;
+  left: 800px;
+  line-height: 40px;
+}
+#page4Down{
+  position: absolute;
+  top: 2260px;
+  left: 960px;
+}
+#page5Textentre{
+  text-align: center;
+  color: green;
+}
+#page5centre{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 200px;
+}
+#page5Text1{
+  position: absolute;
+  top:2820px;
+  left: 300px;
+  text-align: center;
+  color: gray;
+  width:200px; height:80px;
+  line-height: 40px;
+}
+#page5Text2{
+  position: absolute;
+  top:2820px;
+  left: 590px;
+  text-align: center;
+  color: gray;
+  width:200px; height:80px;
+  line-height: 40px;
+}
+#page5Text3{
+  position: absolute;
+  top:2820px;
+  left: 885px;
+  text-align: center;
+  color: gray;
+  width:200px; height:80px;
+  line-height: 40px;
+}
+#page5Down{
+  text-align: center;
+}
+#page6text{
+  text-align: center;
+  color: green;
+}
+#comment{
+  text-align: center;
+}
+#page7text{
+  text-align: center;
+  color: #FFF;
+}
+#download_button_and{
+  text-align: center;
+  margin-bottom: 150px;
+}
+#page7textP{
+  width: 150px; height: 30px;
+  position: absolute;
+  top:3829px;
+  left: 653px;
+  font-size: 160%;
+  color: #FFF;
+}
+#footermenu{
+  list-style-type: none;
+  font-size: 90%;
+  color: #FFF;
+}
+#footermenu li{
+  display: inline;
+  padding: 20px 20px 0px 0px;
+}
+#footerlang{
+  list-style-type: none;
+  font-size: 70%;
+  color: gray;
+}
+#footerlang li{
+  display: inline;
+  padding: 20px 20px 0px 0px;
+}
+#right{
+  text-align: center;
+}
+#footershare{
+  float: right;
+  margin-right: 5%;
+}
+#footerright{
+  position: absolute;
+  top: 5900px
+  right: 50px;
+}
+.textwhite a:link {
+ text-decoration: none;
+ color: #FFF;
+}
+.textwhite a:visited {
+ text-decoration: none;
+ color: #FFF;
+}
+.textwhite a:hover {
+ text-decoration: none;
+ color: #FFF;
+}
+.textwhite a:active {
+ text-decoration: none;
+ color: #FFF;
+}
+.textwhitegreen a:link {
+ text-decoration: none;
+ color: #FFF;
+}
+.textwhitegreen a:visited {
+ text-decoration: none;
+ color: #FFF;
+}
+.textwhitegreen a:hover {
+ text-decoration: none;
+ color: green;
+}
+.textwhitegreen a:active {
+ text-decoration: none;
+ color: #FFF;
+}
+.textgraygreen a:link {
+ text-decoration: none;
+ color: gray;
+}
+.textgraygreen a:visited {
+ text-decoration: none;
+ color: gray;
+}
+.textgraygreen a:hover {
+ text-decoration: none;
+ color: green;
+}
+.textgraygreen a:active {
+ text-decoration: none;
+ color: gray;
+}
+.bshare-custom{
+  position: absolute;
+  top: 462px;
+  left: 260px;
+}
